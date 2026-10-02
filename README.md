@@ -88,7 +88,7 @@ Primary and foreign keys are used to maintain the relationships between the diff
 
 The database script is available at:
 
-```text
+
 database/crescendo.sql
 
 All data included in the SQL file is fictional and was created exclusively for development and demonstration purposes.
