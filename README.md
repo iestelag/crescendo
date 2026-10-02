@@ -1,4 +1,3 @@
-Crescendo
 Crescendo is a full-stack web application designed for the academic management of music schools.
 The project was developed individually as part of my Web Application Development studies. Its main goal is to centralize the management of students, teachers, classes and academic communication in a single platform.
 The application includes a public website and a private area with different functionalities depending on the user's role.
