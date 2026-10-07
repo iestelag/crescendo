@@ -162,9 +162,16 @@ crescendo/
 ├── docker-compose.yml
 └── dockerfile
 
-Screenshots
-Screenshots of the main areas of the application will be added here:
-- Public website
-- Administrator panel
-- Teacher panel
-- Student panel
+## Screenshots
+
+### Administrator panel
+
+![Administrator panel](docs/admin.png)
+
+### Teacher panel
+
+![Teacher panel](docs/profesor.png)
+
+### Student panel
+
+![Student panel](docs/alumno.png)
