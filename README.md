@@ -164,6 +164,10 @@ crescendo/
 
 ## Screenshots
 
+### Public website
+
+![Public website](docs/inicio.png)
+
 ### Administrator panel
 
 ![Administrator panel](docs/admin.png)
